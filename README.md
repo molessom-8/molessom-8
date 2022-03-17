@@ -1,5 +1,5 @@
 # Hi, I'm Zakarya 👋🏾 👩🏾‍💻
-Front end web developer originally from Morooco,residing in Malaysia at the moment. I am passionate about developing the best user experience through front end development. Love to learn and discover new things. As a self-taught developer, I am a fast and very resourceful learner. I can work well independently or on a team.
+Front end web developer originally from Morocco,residing in Malaysia at the moment. I am passionate about developing the best user experience through front end development. Love to learn and discover new things. As a self-taught developer, I am a fast and very resourceful learner. I can work well independently or on a team.
 
 <div align="left">
   <a href="https://twitter.com/elquaraoui">
