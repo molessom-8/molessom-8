@@ -9,7 +9,7 @@ Front end web developer originally from Morocco,residing in Malaysia at the mome
   <a href="https://www.instagram.com/zakaryaelq/">
     <img src="https://img.shields.io/badge/Zakaryaelq-Instagram-orange" />
   </a>
-  <a href="https://www.linkedin.com/zakaryaelquaroui/">
+  <a href="https://www.linkedin.com/in/zakaryaelquaroui">
     <img src="https://img.shields.io/badge/linkedin-zakaryaelq-blue" />
   </a>
 
