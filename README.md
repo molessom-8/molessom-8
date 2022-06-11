@@ -4,6 +4,7 @@ Front end web developer originally from Morocco,residing in Malaysia at the mome
 ## Who Am I ?
 
 - 🤓 Self taught Developer 
+- 💀 Hacker/CyberSec 
 - 👩‍💻 Working on Web Development 
 - 📝 Writing Blogs, Compiling Code
 - 🎯 Goal : To be a better Developer 
